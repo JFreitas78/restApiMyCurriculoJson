@@ -1,0 +1,23 @@
+{
+  "name": "restApiMyCurriculoJson",
+  "version": "1.0.0",
+  "description": "rest api my curriculo json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JFreitas78/restApiMyCurriculoJson.git"
+  },
+  "keywords": [],
+  "author": "Jorge Freitas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JFreitas78/restApiMyCurriculoJson/issues"
+  },
+  "homepage": "https://github.com/JFreitas78/restApiMyCurriculoJson#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
