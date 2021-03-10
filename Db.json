@@ -1,0 +1,84 @@
+{
+    "InformacoesPessoais": [
+        {
+            "Nome": "Jorge de Souto Freitas",
+            "Idade": "42",
+            "EstadoCivil": "União Estável",
+            "Logradouro": "Rua Valdemar Mangini, 123 - Bloco:02, Apto.: 101",
+            "Bairro": "Brás de Pina",
+            "CEP": "21215-420",
+            "Cidade": "Rio de Janeiro",
+            "Estado": "RJ",
+            "Celular": "+55 21 99244-0520",
+            "Email": "desouto@gmail.com",
+            "LinkedIn": "https://www.linkedin.com/in/jorgefreitasti/",
+            "GitHub": "https://github.com/JFreitas78/"
+        }
+    ],
+    "Objetivo": [
+        {
+            "Descricao": "Analista de Sistemas"
+        }
+    ],
+    "FormacaoAcademica": [
+        {
+            "Descricao": "Centro Universitário Carioca – UNICARIOCA. Análise e Desenvolvimento de Sistemas"
+        }
+    ],
+    "Qualificacao": [
+        {
+            "Descricao": "Atuação em empresas de T.I. na área de análise e desenvolvimento de sistemas com foco em intranet e internet. Contato com clientes, elaboração, planejamento, execução e liderança de testes, desenvolvimento, suporte e manutenção de projetos. Consultoria estratégica de novos projetos, visualizando a estimativa de prazos e requisitos dos softwares. Elaboração de métodos para ganho de agilidade no desenvolvimento e performance do software."
+        }
+    ],
+    "Conhecimento": [
+        {
+            "Descricao": "Bootstrap, Metodologia de Projetos Ágeis – SCRUM, HTML, CSS, Less, AngularJs, Javascript, JQuery, ASP, Asp.Net, Asp.Net MVC, DDD, Entity Framework, Web Api, C#, Windows Forms, ExtJs, PHP, JIRA, Trello, MySQL, SQL Server, Git, Service Now e VSTS."
+        }
+    ],
+    "ExperienciaProfissional": [
+        {
+            "Empresa": "Accenture do Brasil LTDA",
+            "Cargo": "Analista de Sistemas",
+            "Periodo": {
+                "Inicio": "Fevereiro/2019",
+                "Fim": "Atual"
+            },
+            "Descricao": "",
+            "Atividades": "Manutenção de sistemas já existentes, desenvolvimento de novos projetos, suporte no levantamento de requisitos e documentação de projetos junto ao cliente. Execução de melhorias para ganho de performance de sistemas já existentes, visando também a agilidade no processo de desenvolvimento com foco em entregas ágeis e eficientes.",
+            "Tecnologias": "AngularJs, HTML, CSS, Js, JQuery, Asp.Net MVC com DDD, WebApi, WebService, SQL Server, Service Now"
+        },
+        {
+            "Empresa": "Inpar Tecnologia LTDA - Cliente – FIRJAN",
+            "Cargo": "Analista de Sistemas",
+            "Periodo": {
+                "Inicio": "Novembro/2018",
+                "Fim": "Janeiro/2019"
+            },
+            "Descricao": "Projeto em parceria com a FIRJAN. Alocação de mão de obra. Todo o projeto desenvolvido dentro da FIRJAN.",
+            "Atividades": "Manutenção de sistemas já existentes, levantamento de requisitos para implementação de nova arquitetura de projetos.",
+            "Tecnologias": "HTML, CSS, Js, JQuery, Asp.Net, SQL Server"
+        },
+        {
+            "Empresa": "Dannemann, Siemsen, Bigler & Ipanema Moreira",
+            "Cargo": "Analista Desenvolvedor",
+            "Periodo": {
+                "Inicio": "Dezembro/2017",
+                "Fim": "Outubro/2018"
+            },
+            "Descricao": "",
+            "Atividades": "Manutenção de sistemas já existentes, migração de tecnologia de um projeto já existente para a tecnologia Asp Net MVC e criação de novos projetos sob demanda. Escritório de direito com foco na área de marcas, patentes e propriedade intelectual.",
+            "Tecnologias": "HTML, CSS, Bootstrap, Js, JQuery, Asp.Net MVC com Entity Framework, SQL Server, VSTS."
+        },
+        {
+            "Empresa": "Infobase IT",
+            "Cargo": "Cargo: Analista Desenvolvedor",
+            "Periodo": {
+                "Inicio": "",
+                "Fim": ""
+            },
+            "Descricao": "",
+            "Atividades": "",
+            "Tecnologias": ""
+        }
+    ]
+}
